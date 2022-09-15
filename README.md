@@ -1,2 +1,2 @@
 Lucas Lopes - RM93165
-julia Akemi - RM94662
+Julia Akemi - RM94662
